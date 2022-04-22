@@ -20,3 +20,6 @@ output
 output.xml
 log.html
 report.html
+sales_results.pdf
+sales_summary.png
+devdata/env.json
