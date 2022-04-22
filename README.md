@@ -1,13 +1,12 @@
-# Template: Standard Robot Framework
+# RPA Beginner's course solution
 
-Want to get started using [Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework/basics) this is the simplest template to start from.
+Tutorial steps available at: https://robocorp.com/docs/courses/beginners-course
 
-This template robot:
+# Getting started configuration
 
-- Uses [Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework/basics) syntax.
-- Includes all the necessary dependencies and initialization commands (`conda.yaml`).
-- Provides a simple task template to start from (`tasks.robot`).
+* Rename `devdata/env_example.json` to `devdata/env.json`
+* Add your mail credentials to `devdata/env.json`
 
-## Learning materials
+## Troubleshooting
 
-- [All docs related to Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework)
+In order to use firefox browser on linux, you need to install `geckodriver` from https://github.com/mozilla/geckodriver/releases following the steps in this Stackoverflow answer: https://askubuntu.com/a/871077
