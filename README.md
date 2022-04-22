@@ -2,6 +2,9 @@
 
 Tutorial steps available at: https://robocorp.com/docs/courses/beginners-course
 
+Send email step was implemented with help of: https://robocorp.com/docs/development-guide/email/sending-emails-with-gmail-smtp#sending-an-email-with-multiple-attachments
+
+
 # Getting started configuration
 
 * Rename `devdata/env_example.json` to `devdata/env.json`
